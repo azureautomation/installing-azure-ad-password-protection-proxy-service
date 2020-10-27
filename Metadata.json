@@ -1,0 +1,20 @@
+{
+    "Author": "Jorge de Almeida Pinto [MVP]",
+    "ContentSize": 33433,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/installing-azure-ad-password-protection-proxy-service/master/AAD-Password-Protection-Install-Proxy-Service.ps1",
+    "DownloadCount": 280,
+    "Id": "Installing-Azure-AD-05bd242a",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 362,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2019-10-23T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "WARNING: Due to retirement of Technet Script Gallery, migrated to:https://github.com/zjorz/Public-AAD-Scripts/blob/master/AAD-Password-Protection-Install-Proxy-Service.ps1With this PoSH script, one can install The Azure AD Password Protection Proxy Service on a Windows Server. Us",
+    "Title": "Installing Azure AD Password Protection Proxy Service",
+    "UpdatedDate": "2020-4-3T00:00:00",
+    "Url": "https://github.com/azureautomation/installing-azure-ad-password-protection-proxy-service",
+    "UserTags": "Azure AD Password Protection, Azure AD Password Protection Proxy Service"
+}
